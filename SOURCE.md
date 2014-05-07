@@ -4,7 +4,7 @@ PHARRELL WILLIAMS
 
 HAPPY
 
-| &nbsp;&nbsp; FROM DESPICABLE ME 2 &nbsp;&nbsp; |
+| FROM DESPICABLE ME 2 |
 
 <!-- BACK -->
 
