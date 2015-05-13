@@ -5,7 +5,7 @@ tags: elements, headings, typography, images, links, beginner, kids
 
 # HTML Album Cover
 
-This challenege asks the you recreate the album cover shown in the MOCKUP.jpg image by writing the appropriate HTML neccesary into the index.html page. Use SOURCE.md to copy and paste in all filler text needed.
+This challenge asks the you recreate the album cover shown in the MOCKUP.jpg image by writing the appropriate HTML neccesary into the index.html page. Use SOURCE.md to copy and paste in all filler text needed.
 
 ## Tasks
 
