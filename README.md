@@ -1,7 +1,4 @@
----
-languages: html
-tags: elements, headings, typography, images, links, beginner, kids
----
+
 
 # HTML Album Cover
 
