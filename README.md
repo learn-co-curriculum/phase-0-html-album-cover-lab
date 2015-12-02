@@ -12,3 +12,5 @@ This challenge asks the you recreate the album cover shown in the MOCKUP.jpg ima
 4. Open the MOCKUP.jpg image and take a look at it.
 5. Use the comments in the index.html file to create the elements neccesary to recreate the album cover shown in MOCKUP.jpg. Also use SOURCE.md to copy and paste all neccesary filler text.
 6. Open up index.html in the browser as well for a side by side comparison with MOCKUP.jpg as you work.
+
+<a href='https://learn.co/lessons/html-album-cover' data-visibility='hidden'>View this lesson on Learn.co</a>
