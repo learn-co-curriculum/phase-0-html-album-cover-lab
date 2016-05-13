@@ -78,7 +78,7 @@ img {
 .wrapper {
   width: 800px;
   margin: 0 auto;
-  /*background: url(../MOCKUP.jpg);*/
+  /*background: url("https://s3.amazonaws.com/learn-verified/MOCKUP.jpg");*/
 }
 
 .album {
