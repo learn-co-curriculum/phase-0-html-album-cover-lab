@@ -92,7 +92,7 @@ img {
 }
 
 #front {
-  background: url(../images/cover.jpg);
+  background: url("https://s3.amazonaws.com/learn-verified/cover.jpg");
   background-size: 100%;
   text-align: center;
 } 
