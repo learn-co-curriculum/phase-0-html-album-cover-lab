@@ -21,7 +21,7 @@ body {
   background: -ms-linear-gradient(top,  rgba(79,79,79,1) 0%,rgba(19,19,19,1) 57%,rgba(19,19,19,1) 100%); /* IE10+ */
   background: linear-gradient(to bottom,  rgba(79,79,79,1) 0%,rgba(19,19,19,1) 57%,rgba(19,19,19,1) 100%); /* W3C */
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4f4f4f', endColorstr='#131313',GradientType=0 ); /* IE6-8 */
-  font-family: 'Avenir Next Condensed', Helvetica, sans-serif;
+  font-family: 'Avenir Next Condensed', 'Arial Narrow', sans-serif;
   font-size: 100%;
 }
 
