@@ -25,10 +25,10 @@ design of the album cover:
 
 ![Happy Album Cover](https://curriculum-content.s3.amazonaws.com/web-development/html-album-cover/MOCKUP.jpg)
 
-In the industry, frontend developers are typically given specs just
-like this from the product team and then asked to write the code to make a
-website look just like the spec. Today, you're the developer and Pharrell is
-the product team.
+In the industry, frontend developers are typically given specs just like this
+from the product team and then asked to write the code to make a website look
+just like the spec. Today, you're the developer and Pharrell is the product
+team.
 
 ### Use SOURCE.md
 
@@ -46,14 +46,14 @@ which HTML tags to use.
 Write your code in `index.html`. Your job is to make sure the text from
 `SOURCE.md` makes it into `index.html` surrounded by the appropriate HTML tags.
 
-The files you need are provided in the 'images' folder, but you'll have to write
-the correct _relative paths_ in order for them to display correctly.
+The files you need are provided in the 'images' folder, but you'll have to
+write the correct _relative paths_ in order for them to display correctly.
 
 You may not have encountered the `span` tag before, so if you are curious, take
 a moment to [read up on some reference material] to better understand its use.
 
-Run `httpserver` and copy the IP address it provides into a new browser tab to 
-see your work in action.  Alternatively, if you are working in a local 
+Run `httpserver` and copy the IP address it provides into a new browser tab to
+see your work in action.  Alternatively, if you are working in a local
 environment, open `index.html` to view the Album Cover as you build it.
 
 To run the tests, hit `ctrl`+`C` to stop the server, then run `learn` to make
