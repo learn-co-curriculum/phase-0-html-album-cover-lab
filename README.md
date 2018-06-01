@@ -49,6 +49,9 @@ Write your code in `index.html`. Your job is to make sure the text from
 The files you need are provided in the 'images' folder, but you'll have to write
 the correct _relative paths_ in order for them to display correctly.
 
+You may not have encountered the `span` tag before, so if you are curious, take
+a moment to [read up on some reference material] to better understand its use.
+
 Run `httpserver` and copy the IP address it provides to see the album cover as
 you build it.
 
@@ -58,6 +61,19 @@ run `learn submit` to submit your work.
 
 ---
 
+## Conclusion
+
+A lot of the formatting in this lab is done using CSS, or Cascading Style
+Sheets, a language that defines styling for HTML. Before we can get to more
+elaborate styling, though, it is important to have a strong understanding of
+HTML fundamentals.
+
+In this lab, we've tested that understanding by having you practice applying
+headers, image, and paragraphs. Completing this lab means that you have a solid
+foundation that we can build upon as we continue to learn about web development.
+
 _Clap along if you feel_ you're getting the hang of HTML!
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/html-album-cover' title='HTML Album Cover'>HTML Album Cover</a> on Learn.co and start learning to code for free.</p>
+
+[read up on some reference material](https://www.w3schools.com/tags/tag_span.asp)
