@@ -23,7 +23,7 @@ you to take care of business.
 Pharrell did provide us with a mock up of what he would like to see for the
 design of the album cover:
 
-![Happy Album Cover](./MOCKUP.jpg)
+![Happy Album Cover](https://curriculum-content.s3.amazonaws.com/web-development/html-album-cover/MOCKUP.jpg)
 
 In the industry, frontend developers are typically given specs just
 like this from the product team and then asked to write the code to make a
