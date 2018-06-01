@@ -12,7 +12,7 @@ we've learned about text formatting and displaying images.
 
 ## Objectives
 
-- Practice applying header, paragraph, image and span tags
+1. Practice applying header, paragraph, image and span tags
 
 ## The Mock Up
 
@@ -30,7 +30,7 @@ like this from the product team and then asked to write the code to make a
 website look just like the spec. Today, you're the developer and Pharrell is
 the product team.
 
-### SOURCE.md
+### Use SOURCE.md
 
 Pharrell has provided us with the text for the album and all the legal
 mumbo-jumbo to give credit where credit is due. You can find that text in
@@ -41,7 +41,7 @@ Each line of text in this file corresponds to a note in `index.html` that will
 indicate where you'll need to add this information. It will be up to you to pick
 which HTML tags to use.
 
-### Getting To Work
+### Deliverables
 
 Write your code in `index.html`. Your job is to make sure the text from
 `SOURCE.md` makes it into `index.html` surrounded by the appropriate HTML tags.
@@ -52,8 +52,9 @@ the correct _relative paths_ in order for them to display correctly.
 You may not have encountered the `span` tag before, so if you are curious, take
 a moment to [read up on some reference material] to better understand its use.
 
-Run `httpserver` and copy the IP address it provides to see the album cover as
-you build it.
+Run `httpserver` and copy the IP address it provides into a new browser tab to 
+see your work in action.  Alternatively, if you are working in a local 
+environment, open `index.html` to view the Album Cover as you build it.
 
 To run the tests, hit `ctrl`+`C` to stop the server, then run `learn` to make
 sure you've met all the deliverables and passed the tests. When you're finished,
