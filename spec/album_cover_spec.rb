@@ -10,7 +10,6 @@ RSpec.describe 'HTML Album Cover' do
         expect(title_box.children.any? {|ch| ch.name == "h2"}).to be == true, "No 'h2' tag found"
         expect(title_box.children.select {|ch| ch.name == "h2"}.first.children.first.text).to be == "HAPPY", "Your 'h2' tag should contain the text 'HAPPY'"
 
-        puts title_box.children.select {|ch| ch.name == "h4"}[1].children.first.text
         expect(title_box.children.select {|ch| ch.name == "h4"}[1].children.first.text).to include("FROM DESPICABLE ME"), "A second 'h4' tag should contain the text 'FROM DESPICABLE ME'"
 
       end
@@ -35,7 +34,6 @@ RSpec.describe 'HTML Album Cover' do
 
         expect(back_cover.children.any? {|ch| ch.name == "img"}).to be == true, "No 'img' tag was found"
 
-        puts back_cover.children.select {|ch| ch.name == "img"}[0].attributes["src"]
         expect(back_cover.children.select {|ch| ch.name == "img"}[0].attributes["src"].value).to be == 'https://s3.amazonaws.com/learn-verified/columbia-logo.png', "First image should have its source set to 'https://s3.amazonaws.com/learn-verified/columbia-logo.png'"
 
         expect(back_cover.children.select {|ch| ch.name == "span"}[1].children.first.text).to include("COLUMBIARECORDS.COM"), "The second span tag should include the text 'COLUMBIARECORDS.COM'"
