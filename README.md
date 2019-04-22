@@ -77,4 +77,5 @@ _Clap along if you feel_ you're getting the hang of HTML!
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/html-album-cover' title='HTML Album Cover'>HTML Album Cover</a> on Learn.co and start learning to code for free.</p>
 
+
 [read up on some reference material]: https://www.w3schools.com/tags/tag_span.asp
