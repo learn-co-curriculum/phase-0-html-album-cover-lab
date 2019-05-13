@@ -2,7 +2,11 @@
 
 <img src="https://after-school-assets.s3.amazonaws.com/happy.gif" width="300px" hspace="10">
 
-## Problem Statement
+## Learning Goals
+
+1. Use applying header, paragraph, image and span tags
+
+## Introduction
 
 Learning all the individual pieces that make up a web page is a necessary first
 step in the process of learning HTML, but one of the best ways to solidify the
@@ -10,11 +14,7 @@ concepts we've learned is to apply concepts together. In this lab, your task
 will be to update `index.html` based on commented notes in the file, using what
 we've learned about text formatting and displaying images.
 
-## Objectives
-
-1. Practice applying header, paragraph, image and span tags
-
-## The Mock Up
+## Use Applying Header, Paragraph, Image and Span Tags
 
 Pharrell isn't quite happy, he needs some help coding the album cover for his
 hit song "Happy." His dev chops aren't quite as skilled as yours, so he's hired
