@@ -4,7 +4,7 @@
 
 ## Learning Goals
 
-1. Use applying header, paragraph, image and span tags
+1. Apply header, paragraph, image and span tags
 
 ## Introduction
 
@@ -14,7 +14,7 @@ concepts we've learned is to apply concepts together. In this lab, your task
 will be to update `index.html` based on commented notes in the file, using what
 we've learned about text formatting and displaying images.
 
-## Use Applying Header, Paragraph, Image and Span Tags
+## Apply Header, Paragraph, Image and Span Tags
 
 Pharrell isn't quite happy, he needs some help coding the album cover for his
 hit song "Happy." His dev chops aren't quite as skilled as yours, so he's hired
