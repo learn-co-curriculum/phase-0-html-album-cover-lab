@@ -25,7 +25,7 @@ design of the album cover:
 
 ![Happy Album Cover](https://curriculum-content.s3.amazonaws.com/web-development/html-album-cover/MOCKUP.jpg)
 
-In the industry, frontend developers are typically given specs just like this
+In the industry, front-end developers are typically given specs just like this
 from the product team and then asked to write the code to make a website look
 just like the spec. Today, you're the developer and Pharrell is the product
 team.
