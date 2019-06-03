@@ -2,9 +2,9 @@
 
 <img src="https://after-school-assets.s3.amazonaws.com/happy.gif" width="300px" hspace="10">
 
-## Learning Goals
+## Learning Goal
 
-1. Apply header, paragraph, image and span tags
+- Apply header, paragraph, image and span tags
 
 ## Introduction
 
