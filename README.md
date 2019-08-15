@@ -47,7 +47,8 @@ Write your code in `index.html`. Your job is to make sure the text from
 `SOURCE.md` makes it into `index.html` surrounded by the appropriate HTML tags.
 
 The files you need are provided in the 'images' folder, but you'll have to
-write the correct _relative paths_ in order for them to display correctly.
+write the correct URL paths (like `http://..../image-name`) in order for them
+to display correctly.
 
 You may not have encountered the `span` tag before, so if you are curious, take
 a moment to [read up on some reference material] to better understand its use.
