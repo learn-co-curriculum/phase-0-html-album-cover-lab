@@ -1,6 +1,6 @@
 # HTML Album Cover
 
-<img src="https://after-school-assets.s3.amazonaws.com/happy.gif" width="300px" hspace="10">
+<img src="https://after-school-assets.s3.amazonaws.com/happy.gif" width="300px" hspace="10" alt="a still from the 'Happy' music video by Pharrell Williams"/>
 
 ## Learning Goal
 
