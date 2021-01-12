@@ -1,6 +1,6 @@
 # HTML Album Cover
 
-<img src="https://after-school-assets.s3.amazonaws.com/happy.gif" width="300px" hspace="10" alt="a still from the 'Happy' music video by Pharrell Williams"/>
+![from the 'Happy' music video by Pharrell Williams](https://after-school-assets.s3.amazonaws.com/happy.gif)
 
 ## Learning Goal
 
@@ -13,6 +13,12 @@ step in the process of learning HTML, but one of the best ways to solidify the
 concepts we've learned is to apply concepts together. In this lab, your task
 will be to update `index.html` based on commented notes in the file, using what
 we've learned about text formatting and displaying images.
+
+## Getting Started
+
+Fork and clone this lesson into your local environment. Navigate into its directory
+in the terminal, then run `code .` to open the files in Visual Studio Code. Finally,
+run `bundle` to install the lab's dependencies.
 
 ## Apply Header, Paragraph, Image and Span Tags
 
@@ -53,13 +59,10 @@ to display correctly.
 You may not have encountered the `span` tag before, so if you are curious, take
 a moment to [read up on some reference material] to better understand its use.
 
-Run `httpserver` and copy the IP address it provides into a new browser tab to
-see your work in action.  Alternatively, if you are working in a local
-environment, open `index.html` to view the Album Cover as you build it.
+Open `index.html` in a separate browser tab to see your progress on the Album
+Cover as you build it.
 
-To run the tests, hit `ctrl`+`C` to stop the server, then run `learn` to make
-sure you've met all the deliverables and passed the tests. When you're finished,
-run `learn submit` to submit your work.
+Run `rspec` to make sure you've met all the deliverables and passed the tests.
 
 ---
 
@@ -78,6 +81,5 @@ _Clap along if you feel_ you're getting the hang of HTML!
 
 [read up on some reference material]: https://www.w3schools.com/tags/tag_span.asp
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/html-album-cover' title='HTML Album Cover'>HTML Album Cover</a> on Learn.co and start learning to code for free.</p>
 
 
