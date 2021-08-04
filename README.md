@@ -1,7 +1,5 @@
 # HTML Album Cover
 
-![from the 'Happy' music video by Pharrell Williams](https://after-school-assets.s3.amazonaws.com/happy.gif)
-
 ## Learning Goal
 
 - Apply header, paragraph, image and span tags
@@ -16,9 +14,9 @@ we've learned about text formatting and displaying images.
 
 ## Getting Started
 
-Fork and clone this lesson into your local environment. Navigate into its directory
-in the terminal, then run `code .` to open the files in Visual Studio Code. Finally,
-run `bundle` to install the lab's dependencies.
+Fork and clone this lesson into your local environment. Navigate into its
+directory in the terminal, then run `code .` to open the files in Visual Studio
+Code. Finally, run `bundle` to install the lab's dependencies.
 
 ## Apply Header, Paragraph, Image and Span Tags
 
@@ -52,9 +50,9 @@ which HTML tags to use.
 Write your code in `index.html`. Your job is to make sure the text from
 `SOURCE.md` makes it into `index.html` surrounded by the appropriate HTML tags.
 
-The files you need are provided in the 'images' folder, but you'll have to
-write the correct URL paths (like `http://..../image-name`) in order for them
-to display correctly.
+The files you need are provided in the 'images' folder, but you'll have to write
+the correct URL paths (like `http://..../image-name`) in order for them to
+display correctly.
 
 You may not have encountered the `span` tag before, so if you are curious, take
 a moment to [read up on some reference material] to better understand its use.
@@ -68,8 +66,8 @@ Run `rspec` to make sure you've met all the deliverables and passed the tests.
 
 Currently, the work you've done on this assignment is only on your local
 machine. To preserve work on your GitHub fork, you will need to stage the
-changes you've made, commit them, and push the commit up to GitHub. Use
-the following commands to do this:
+changes you've made, commit them, and push the commit up to GitHub. Use the
+following commands to do this:
 
 ```sh
 git add .
@@ -94,6 +92,3 @@ foundation that we can build upon as we continue to learn about web development.
 _Clap along if you feel_ you're getting the hang of HTML!
 
 [read up on some reference material]: https://www.w3schools.com/tags/tag_span.asp
-
-
-
