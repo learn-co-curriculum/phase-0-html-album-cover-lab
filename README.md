@@ -1,8 +1,8 @@
 # HTML Album Cover
 
-## Learning Goal
+## Learning Goals
 
-- Apply header, paragraph, image and span tags
+- Use common HTML tags to produce a webpage based on a mock-up
 
 ## Introduction
 
