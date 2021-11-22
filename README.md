@@ -1,10 +1,8 @@
 # HTML Album Cover
 
-<img src="https://after-school-assets.s3.amazonaws.com/happy.gif" width="300px" hspace="10">
+## Learning Goals
 
-## Learning Goal
-
-- Apply header, paragraph, image and span tags
+- Use common HTML tags to produce a webpage based on a mock-up
 
 ## Introduction
 
@@ -13,6 +11,12 @@ step in the process of learning HTML, but one of the best ways to solidify the
 concepts we've learned is to apply concepts together. In this lab, your task
 will be to update `index.html` based on commented notes in the file, using what
 we've learned about text formatting and displaying images.
+
+## Getting Started
+
+Fork and clone this lesson into your local environment. Navigate into its
+directory in the terminal, then run `code .` to open the files in Visual Studio
+Code. Finally, run `npm install` to install the lab's dependencies.
 
 ## Apply Header, Paragraph, Image and Span Tags
 
@@ -23,7 +27,7 @@ you to take care of business.
 Pharrell did provide us with a mock-up of what he would like to see for the
 design of the album cover:
 
-![Happy Album Cover](https://curriculum-content.s3.amazonaws.com/web-development/html-album-cover/MOCKUP.jpg)
+![Happy Album Cover](https://curriculum-content.s3.amazonaws.com/phase-0/html-album-cover-lab/album-cover-mockup.png)
 
 In the industry, front-end developers are typically given specs just like this
 from the product team and then asked to write the code to make a website look
@@ -46,22 +50,34 @@ which HTML tags to use.
 Write your code in `index.html`. Your job is to make sure the text from
 `SOURCE.md` makes it into `index.html` surrounded by the appropriate HTML tags.
 
-The files you need are provided in the 'images' folder, but you'll have to
-write the correct URL paths (like `http://..../image-name`) in order for them
-to display correctly.
+The files you need are provided in the 'images' folder, but you'll have to write
+the correct URL paths (like `http://..../image-name`) in order for them to
+display correctly.
 
 You may not have encountered the `span` tag before, so if you are curious, take
 a moment to [read up on some reference material] to better understand its use.
 
-Run `httpserver` and copy the IP address it provides into a new browser tab to
-see your work in action.  Alternatively, if you are working in a local
-environment, open `index.html` to view the Album Cover as you build it.
+Open `index.html` in a separate browser tab to see your progress on the Album
+Cover as you build it.
 
-To run the tests, hit `ctrl`+`C` to stop the server, then run `learn` to make
-sure you've met all the deliverables and passed the tests. When you're finished,
-run `learn submit` to submit your work.
+Run `npm test` to make sure you've met all the deliverables and passed the
+tests.
 
----
+## Saving Your Work Remotely
+
+Currently, the work you've done on this assignment is only on your local
+machine. To preserve work on your GitHub fork, you will need to stage the
+changes you've made, commit them, and push the commit up to GitHub. Use the
+following commands to do this:
+
+```console
+$ git add .
+$ git commit -m "Completed assignment"
+$ git push
+```
+
+If you visit your fork on GitHub, you should now see that _you've_ made the most
+recent commit, and your solution will be present in the files.
 
 ## Conclusion
 
@@ -76,8 +92,5 @@ foundation that we can build upon as we continue to learn about web development.
 
 _Clap along if you feel_ you're getting the hang of HTML!
 
-[read up on some reference material]: https://www.w3schools.com/tags/tag_span.asp
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/html-album-cover' title='HTML Album Cover'>HTML Album Cover</a> on Learn.co and start learning to code for free.</p>
-
-
+[read up on some reference material]:
+  https://www.w3schools.com/tags/tag_span.asp
