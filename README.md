@@ -16,7 +16,7 @@ we've learned about text formatting and displaying images.
 
 Fork and clone this lesson into your local environment. Navigate into its
 directory in the terminal, then run `code .` to open the files in Visual Studio
-Code. Finally, run `npm install` to install the lab's dependencies.
+Code.
 
 ## Apply Header, Paragraph, Image and Span Tags
 
@@ -60,24 +60,8 @@ a moment to [read up on some reference material] to better understand its use.
 Open `index.html` in a separate browser tab to see your progress on the Album
 Cover as you build it.
 
-Run `npm test` to make sure you've met all the deliverables and passed the
+Run `learn test` to make sure you've met all the deliverables and passed the
 tests.
-
-## Saving Your Work Remotely
-
-Currently, the work you've done on this assignment is only on your local
-machine. To preserve work on your GitHub fork, you will need to stage the
-changes you've made, commit them, and push the commit up to GitHub. Use the
-following commands to do this:
-
-```console
-$ git add .
-$ git commit -m "Completed assignment"
-$ git push
-```
-
-If you visit your fork on GitHub, you should now see that _you've_ made the most
-recent commit, and your solution will be present in the files.
 
 ## Conclusion
 
