@@ -14,7 +14,7 @@ we've learned about text formatting and displaying images.
 
 ## Getting Started
 
-Fork and clone this lesson into your local environment. Navigate into its
+**Fork and clone** this lesson into your local environment. Navigate into its
 directory in the terminal, then run `code .` to open the files in Visual Studio
 Code.
 
@@ -60,7 +60,7 @@ a moment to [read up on some reference material] to better understand its use.
 Open `index.html` in a separate browser tab to see your progress on the Album
 Cover as you build it.
 
-Run `learn test` to make sure you've met all the deliverables and passed the
+Run `npm test` to make sure you've met all the deliverables and passed the
 tests.
 
 ## Conclusion
