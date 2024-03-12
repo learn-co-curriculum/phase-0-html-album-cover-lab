@@ -26,10 +26,12 @@ body {
 }
 
 h1 {
-  font-size: 12.25em;
+  font-size:3.25em;
   line-height: 1em;
   letter-spacing: .03em;
   margin-bottom: 2px;
+  
+ 
 }
 
 h2 {
@@ -104,6 +106,13 @@ img {
 }
 
 #title-box {
+  width: 252px;
+  height: 165px;
+  background: rgba(247,211,27,1);
+  margin-left: 163px;
+  padding-top: 25px;
+}
+#title-box. {
   width: 252px;
   height: 165px;
   background: rgba(247,211,27,1);
